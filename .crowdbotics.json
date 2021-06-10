@@ -4,5 +4,6 @@
     "version": "1.0.0"
   },
   "stuff": 1.0,
-  "confuseGit": false,
+  "stuff2": 87,
+  "confuseGit": true,
 }
